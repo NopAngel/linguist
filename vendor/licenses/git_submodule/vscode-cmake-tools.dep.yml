@@ -1,6 +1,6 @@
 ---
 name: vscode-cmake-tools
-version: e552a9f93186eb755b47f1164f870499dda8d890
+version: 4178c47ec6b7e29a0bee4b768173b359ac1359bf
 type: git_submodule
 homepage: https://github.com/microsoft/vscode-cmake-tools.git
 license: mit

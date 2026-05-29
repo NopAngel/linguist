@@ -1,6 +1,6 @@
 ---
 name: vscode-ibmi-languages
-version: 7fa20a5205f2419148cf511786cfaf21d0b48953
+version: e789363ce8f631746c81c3d4127d263b37791a6c
 type: git_submodule
 homepage: https://github.com/barrettotte/vscode-ibmi-languages
 license: mit

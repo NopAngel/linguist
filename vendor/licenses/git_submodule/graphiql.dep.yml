@@ -1,6 +1,6 @@
 ---
 name: graphiql
-version: b495159382465a2cab6d8592b8bce66fece066fe
+version: 01723a406a01203dd4659d4e650ec1326551d5e5
 type: git_submodule
 homepage: https://github.com/graphql/graphiql.git
 license: mit

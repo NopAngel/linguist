@@ -1,6 +1,6 @@
 ---
 name: vscode-lean4
-version: e844f6abe874fde8fda34160e82888476dd9c676
+version: 132d329aa8afa3e8508ef77cfdcff112d3b35c88
 type: git_submodule
 homepage: https://github.com/leanprover/vscode-lean4.git
 license: apache-2.0

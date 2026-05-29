@@ -1,6 +1,6 @@
 ---
 name: vscode-bitbake
-version: b9d5ecdfa8e362c9c3d6f3b1addd3ec9e3fc97e3
+version: bc8777144eed949075b7b562e5f8e2f5256f34f9
 type: git_submodule
 homepage: https://github.com/yoctoproject/vscode-bitbake.git
 license: mit

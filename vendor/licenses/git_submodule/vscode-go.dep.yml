@@ -1,6 +1,6 @@
 ---
 name: vscode-go
-version: eeb3c24fe991e47e130a0ac70a9b214664b4a0ea
+version: 482492da0bf798a22474511fa57c25c3119f8e24
 type: git_submodule
 homepage: https://github.com/golang/vscode-go
 license: mit

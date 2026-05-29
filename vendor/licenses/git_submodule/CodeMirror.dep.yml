@@ -1,6 +1,6 @@
 ---
 name: CodeMirror
-version: eed51d071bce00302f209d66b8d2cf908b2cb733
+version: 24ee74bbf433e8d484097a6ea421818a621ca13c
 type: git_submodule
 homepage: https://github.com/codemirror/CodeMirror
 license: mit
@@ -323,6 +323,7 @@ notices:
     Filype Pereira
     finalfantasia
     flack
+    flofriday
     Florian Felten
     Fons van der Plas
     Forbes Lindesay
@@ -389,6 +390,7 @@ notices:
     Hendrik Wallbaum
     Henrik Haugbølle
     Herculano Campos
+    Hicham Omari
     hidaiy
     Hiroyuki Makino
     hitsthings
@@ -499,6 +501,7 @@ notices:
     Joost-Wim Boekesteijn
     José dBruxelles
     Joseph D. Purcell
+    Joseph Olstad
     Joseph Pecoraro
     Josh Barnes
     Josh Cohen
@@ -730,6 +733,7 @@ notices:
     Nina Pypchenko
     Nisarg Jhaveri
     nlwillia
+    noor.masarwa
     noragrossman
     Norman Rzepka
     Nouzbe
@@ -1010,6 +1014,7 @@ notices:
     Yvonnick Esnault
     Zac Anger
     Zachary Dremann
+    Zaid Daba'een
     ZeeshanNoor
     Zeno Rocha
     Zhang Hao

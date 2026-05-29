@@ -1,6 +1,6 @@
 ---
 name: vscode-jsonc-syntax-highlighting
-version: b3a09c98467d73620b3e92d08d1d1eec3146f6bf
+version: 3de47ada96215c10263fb9cbed23d2fc7bdf32e9
 type: git_submodule
 homepage: https://github.com/DecimalTurn/vscode-jsonc-syntax-highlighting.git
 license: mit

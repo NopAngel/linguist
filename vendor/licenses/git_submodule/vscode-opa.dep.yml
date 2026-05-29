@@ -1,6 +1,6 @@
 ---
 name: vscode-opa
-version: 189652ae888fd0b57ac453038b68972cbe2d6ab6
+version: '083c8b3818270dc67b3abba135d97b297c24a261'
 type: git_submodule
 homepage: https://github.com/open-policy-agent/vscode-opa.git
 license: apache-2.0

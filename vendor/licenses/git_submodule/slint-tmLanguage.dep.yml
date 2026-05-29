@@ -1,6 +1,6 @@
 ---
 name: slint-tmLanguage
-version: b0f91f4eb04731c9f868f382fba3fa5f5ea7840a
+version: 8851433537ab67cfe79ccd794e9ae2bd237aae99
 type: git_submodule
 homepage: https://github.com/slint-ui/slint-tmLanguage.git
 license: mit

@@ -1,6 +1,6 @@
 ---
 name: qsharp
-version: 1778307756977cc846421d80ab66b4f77e7c39ee
+version: b7bc7baf7e51092d25f6ca965c02db62c3f397dc
 type: git_submodule
 homepage: https://github.com/microsoft/qsharp.git
 license: mit

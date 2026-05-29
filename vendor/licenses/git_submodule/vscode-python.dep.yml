@@ -1,6 +1,6 @@
 ---
 name: vscode-python
-version: 6b7d8d1c12189126dce4c5d6733a74ab7762fb00
+version: 4cea6235e2f19da3c6aa42f0008243dfb6dd4974
 type: git_submodule
 homepage: https://github.com/microsoft/vscode-python.git
 license: mit

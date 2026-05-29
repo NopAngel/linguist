@@ -1,6 +1,6 @@
 ---
 name: AL
-version: 9a3323f59ddd1b231c32ded7d527cc727aa19994
+version: cc67c10fb90dc03c36a3b23449f72c81051f3d85
 type: git_submodule
 homepage: https://github.com/microsoft/AL
 license: mit

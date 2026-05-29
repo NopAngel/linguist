@@ -1,6 +1,6 @@
 ---
 name: abl-tmlanguage
-version: 8adfc1094bb79da7fb4c1248b215702704484cba
+version: 41e59153167234f81a52ccedeee390fab4177ccf
 type: git_submodule
 homepage: https://github.com/chriscamicas/abl-tmlanguage
 license: mit
